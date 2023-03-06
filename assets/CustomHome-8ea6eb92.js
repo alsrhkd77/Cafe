@@ -1,0 +1,1 @@
+import{H as o,a as s,b as t,c as a}from"./app-de735437.js";import{c as m,p as r,q as c,N as e,_ as n}from"./framework-5866ffd3.js";const _={class:"home"},p=m({__name:"CustomHome",setup(u){return(H,f)=>(r(),c("main",_,[e(o),e(s),e(t),e(a)]))}}),C=n(p,[["__file","CustomHome.vue"]]);export{C as default};

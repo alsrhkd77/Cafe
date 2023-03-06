@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74bc627b","path":"/about/","title":"About","lang":"ko-KR","frontmatter":{},"headers":[{"level":3,"title":"lorem ipsum","slug":"lorem-ipsum","link":"#lorem-ipsum","children":[]},{"level":3,"title":"lorem ipsum","slug":"lorem-ipsum-1","link":"#lorem-ipsum-1","children":[]}],"git":{},"filePathRelative":"about/README.md"}');export{e as data};
